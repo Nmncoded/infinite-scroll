@@ -1,0 +1,38 @@
+.container {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 56px;
+}
+header {
+    text-align: center;
+    font-size: 36px;
+    padding: 34px 0;
+    font-weight: 650;
+    color: rgba(0,0,0,0.6);
+}
+
+body {
+    background-color: bisque;
+}
+ul {
+    list-style-type: square;
+}
+li {
+    margin-bottom: 44px;
+    margin-top: 34px;
+}
+.text {
+    font-size: 26px;
+    color: rgba(0,0,0,0.7);
+    line-height: 1.4;
+    margin-bottom: 12px;
+}
+.author {
+    font-style: italic;
+    font-size: 22px;
+    color: rgba(0,0,0,0.4);
+    font-weight: 550;
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+}
